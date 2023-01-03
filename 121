@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        int a = 1;
+        System.out.println (a);
+        String b="привет"; //ссылочная
+        System.out.println (b);
+        boolean c =true;
+        System.out.println (c);
+        byte d =127;
+        System.out.println (d);
+        short e = -32768;
+        System.out.println (e);
+
+    }
+}
